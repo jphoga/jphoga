@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, my name is Jan. I am an engineer and consultant living and working in Tokyo 👋
 
 <!--
 **jphoga/jphoga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
