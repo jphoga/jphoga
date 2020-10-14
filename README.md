@@ -1,5 +1,3 @@
-[![Social banner for jphoga](https://github.com/jphoga/jphoga/blob/main/header3.png)](https://www.janpaulhoga.com)
-
 ### Hi, my name is Jan. I am an engineer and consultant living and working in Tokyo 👋
 
 <!--
